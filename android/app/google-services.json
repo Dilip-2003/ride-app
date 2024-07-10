@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "892818427496",
+    "project_id": "chologhuri-f5a49",
+    "storage_bucket": "chologhuri-f5a49.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892818427496:android:a48c22ea4358146ccab5dd",
+        "android_client_info": {
+          "package_name": "com.sarkar.rideapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGaMF7kjjP2rkQGDGTHn2M5qWlm_zm_nI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
